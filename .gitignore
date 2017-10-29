@@ -1,0 +1,13 @@
+# Qt generate file types
+
+build-*/*
+build-QAX_MSWord_Sample*/*
+*.pro.user
+*.pro.user.*
+*.moc
+*.bin
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
